@@ -7,14 +7,17 @@ Map an internal data process from your organisation against the 7 steps of the d
 
 ### Instructions
 
-1. Fork this repository
-2. Copy `submissions/example.md` to a new file in `submissions/` named after your group (e.g. `submissions/group-alpha.md`)
-3. Fill in your copy with your group's process
-4. Open a Pull Request back to this repository with your group name as the PR title
+1. **Fork** this repository (button top-right)
+2. In your fork, open `submissions/example.md` and copy its contents
+3. Go to `submissions/`, click **Add file** → **Create new file**
+4. Name it `your-group-name.md` and paste the template
+5. Fill in the template with your group's process
+6. When saving, select **"Create a new branch and start a pull request"**
+7. Submit the pull request back to the original repository
 
 ### The template
 
-See `submissions/example.md` — one section per pipeline step. For each step, describe what happens in your organisation's process today, and whether AI could help.
+See `submissions/example.md` for the structure.
 
 > [!NOTE]
 > The document is formatted using Markdown. See [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for more info
